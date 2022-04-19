@@ -6,7 +6,7 @@ In this project, we analyzed datasets containing information about daily PM2.5 C
 1. “Does the data for asthma prevalence and 24-hr Avg. PM2.5 concentrations differ at different stratification and scales?”
 2. “Do higher levels of PM2.5 cause higher levels of asthma?” 
 
-# Modeling, Inference, and Decisions
+## Modeling, Inference, and Decisions
 We used a combination of multiple hypothesis testing and causal inference techniques to answer our two main questions.
 
 For multiple hypothesis testing, we had five hypotheses:
